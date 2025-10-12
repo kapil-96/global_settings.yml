@@ -1,6 +1,5 @@
 object_type: global_settings
 overrides:
-  "query.timeout.default": 300000
   "aggregates.systemGenerated.activeInstance.extraAllowance": 10
   "aggregates.systemGenerated.activeInstance.retentionLimit": 10
   "aggregates.create.compression.threshold": 3.0
