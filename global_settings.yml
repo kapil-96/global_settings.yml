@@ -1,6 +1,6 @@
 object_type: global_settings
 overrides:
   "xmla.auth.token.enabled": true
-  "auth.user.normalize.lowercase": false
+  "auth.user.normalize.lowercase": true
   "query.factless.ignoreIncidentalFilter": false
   
