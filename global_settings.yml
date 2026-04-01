@@ -6,4 +6,5 @@ overrides:
   "tableau.pgwire.client.protocol": "atscale_pgwire"
   "tableau.connector.type": "atscale_pgwire"
   "tableau.pgwire.authentication": "oauth"
+  "aggregates.prediction.reports.storePredictorData": False
   
