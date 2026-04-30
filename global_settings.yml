@@ -3,5 +3,5 @@ overrides:
   "xmla.auth.token.enabled": true
   "query.factless.ignoreIncidentalFilter": false
   "aggregates.prediction.reports.storePredictorData": False
-  "auth.user.normalize.lowercase": false
+  "auth.user.normalize.lowercase": true
   
