@@ -5,4 +5,5 @@ overrides:
   "aggregates.prediction.reports.storePredictorData": False
   "auth.user.normalize.lowercase": true
   "aggregates.tableCache.enabled": true
+  "aggregates.dimensional.allowJoinsToSecondaries.enabled": true
   
