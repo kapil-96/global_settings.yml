@@ -6,4 +6,6 @@ overrides:
   "auth.user.normalize.lowercase": true
   "aggregates.tableCache.enabled": true
   "aggregates.dimensional.allowJoinsToSecondaries.enabled": true
+  "tables.create.partitions.enabled": true
+  "aggregates.create.partition.userDefinedAggregate.enabled": true
   
