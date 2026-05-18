@@ -8,4 +8,4 @@ overrides:
   "aggregates.dimensional.allowJoinsToSecondaries.enabled": true
   "tables.create.partitions.enabled": true
   "aggregates.create.partition.userDefinedAggregate.enabled": true
-  
+  "aggregate.incrementalUpdate.partition.enabled": true
