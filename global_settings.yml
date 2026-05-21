@@ -1,11 +1,4 @@
 object_type: "global_settings"
 overrides:
   "xmla.auth.token.enabled": true
-  "query.factless.ignoreIncidentalFilter": false
-  "aggregates.prediction.reports.storePredictorData": False
-  "auth.user.normalize.lowercase": true
-  "aggregates.tableCache.enabled": true
-  "aggregates.dimensional.allowJoinsToSecondaries.enabled": true
-  "tables.create.partitions.enabled": true
-  "aggregates.create.partition.userDefinedAggregate.enabled": true
-  "aggregate.incrementalUpdate.partition.enabled": true
+
