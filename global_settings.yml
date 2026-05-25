@@ -1,5 +1,5 @@
 object_type: "global_settings"
 overrides:
   "xmla.auth.token.enabled": true
-  "catalog.deployment.restriction.enabled": true
+  "catalog.deployment.restriction.enabled": false
 
