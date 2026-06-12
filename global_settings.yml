@@ -4,4 +4,5 @@ overrides:
   "tableau.pgwire.client.protocol": "atscale_pgwire"
   "tableau.connector.type": "atscale_pgwire"
   "tableau.pgwire.authentication": "oauth"
+  "metadataExport.driver.type": "postgres"
 
