@@ -1,6 +1,6 @@
 object_type: "global_settings"
 overrides:
   "xmla.auth.token.enabled": true
-  "soap.xpress.enabled": true
+ 
  
 
