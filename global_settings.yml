@@ -1,6 +1,9 @@
 object_type: "global_settings"
 overrides:
   "xmla.auth.token.enabled": true
+  "tableau.pgwire.client.protocol": atscale_pgwire
+  "tableau.connector.type": atscale_pgwire
+  "tableau.pgwire.authentication": oauth
  
  
 
