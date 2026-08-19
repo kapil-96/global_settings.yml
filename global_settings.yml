@@ -3,6 +3,9 @@ overrides:
   "xmla.auth.token.enabled": true
   "auth.runtimePermissions.disabled": false
   "security.runtimePermissions.measures.enabled": true
+  "tableau.pgwire.client.protocol": atscale_pgwire
+  "tableau.connector.type": atscale_pgwire
+  "tableau.pgwire.authentication": oauth
  
  
  
